@@ -116,7 +116,7 @@ Module Main
 
         ' /// Affichage pub en darkblue ///
         SetConsoleColors(ConsoleColor.white)
-        Console.WriteLine(" PingConverter By Tybbow v1.0")
+        Console.WriteLine("PingConverter By Tybbow v1.0")
 
         ' /// Affichage du drapeau tricolore ///
         SetConsoleColors(ConsoleColor.blue)
