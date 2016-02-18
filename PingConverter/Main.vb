@@ -9,7 +9,6 @@ Module Main
 
     ' /// Fichier en cours de lecture ///
     Dim myFile As String = String.Empty
-    Dim diffTime As Integer
     Dim fileName As String = String.Empty
 
     ' /// Créer le tableau de valeurs ///
@@ -18,9 +17,6 @@ Module Main
     Dim title As String = String.Empty
     Dim stats As String = String.Empty
     Dim rtt As String = String.Empty
-
-    ' /// Date From ///
-    Dim dateFrom As Date
 
     ' /// Date To ///
     Dim dateTo As Date
@@ -56,16 +52,19 @@ Module Main
 
                     End Using
 
+                    myFile = myFile.Replace(vbLf, vbCrLf)
+
                     ' /// On  compte le nombre de ligne dans myFile
-                    Dim line() As String = Regex.Split(myFile, vbCrLf)
+                    Dim line() As String = Split(myFile, vbCrLf)
                     Dim lineCount As Integer = line.Count
 
                     ' /// On lit les lignes souhaitées.
                     title = line(lineCount - 4)
+                    Console.WriteLine(title)
                     stats = line(lineCount - 3)
+                    Console.WriteLine(stats)
                     rtt = line(lineCount - 2)
-                    diffTime = stats.Substring(stats.LastIndexOf("time") + 5, stats.Count - stats.LastIndexOf("time") - 7)
-
+                    Console.WriteLine(rtt)
 
                     ' /// On récupère les différentes dates
                     fileName = New FileInfo(arg).Name

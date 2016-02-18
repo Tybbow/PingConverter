@@ -1,0 +1,17 @@
+E:\Projets\PingConverter\PingConverter\bin\Release\PingConverter.exe
+E:\Projets\PingConverter\PingConverter\bin\Release\PingConverter.pdb
+E:\Projets\PingConverter\PingConverter\bin\Release\PingConverter.xml
+E:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.Resources.resources
+E:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.vbproj.GenerateResource.Cache
+E:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.exe
+E:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.xml
+E:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.pdb
+F:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.exe
+F:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.xml
+F:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.pdb
+F:\Projets\PingConverter\PingConverter\bin\Release\PingConverter.exe
+F:\Projets\PingConverter\PingConverter\bin\Release\PingConverter.pdb
+F:\Projets\PingConverter\PingConverter\bin\Release\PingConverter.xml
+F:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.vbprojResolveAssemblyReference.cache
+F:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.Resources.resources
+F:\Projets\PingConverter\PingConverter\obj\x86\Release\PingConverter.vbproj.GenerateResource.Cache
